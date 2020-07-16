@@ -17,12 +17,12 @@ function Footer() {
             </li>
             <li className="list-inline-item">
               <a href="#something">
-                <i className="fa fa-facebook-f"></i>
+                <i className="fab fa-linkedin"></i>
               </a>
             </li>
             <li className="list-inline-item">
               <a href="#something">
-                <i className="fa fa-linkedin-in"></i>
+                <i className="fab fa-github-square"></i>
               </a>
             </li>
           </ul>

@@ -1,0 +1,6 @@
+.section-heading{
+    padding-bottom: 3rem;
+}
+#portfolio *{
+    z-index: 0 !important;
+}

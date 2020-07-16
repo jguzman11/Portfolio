@@ -33,8 +33,11 @@
     padding-left: 10rem !important;
 }
 .my-image{
-    height: 20rem;
+    height: 25rem;
     width: 20rem;
+}
+.btn{
+    background-color: #fff !important;
 }
 
 @media (min-width: 768px){

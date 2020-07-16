@@ -13,17 +13,20 @@ function App() {
     {
       title: 'The Verge',
       caption: '...',
-      img: '/PortfolioPhotos/TheVergeReDesign.png'
+      img: '/PortfolioPhotos/TheVergeReDesign.png',
+      page: "https://r2h-the-verge-clone.netlify.app"
     },
     {
       title: 'E-commerce',
       caption: '...',
-      img: '/PortfolioPhotos/cltKicks.png'
+      img: '/PortfolioPhotos/cltKicks.png',
+      page: "https://7o4kicks.netlify.app/"
     },
     {
       title: 'Guessing Game',
       caption: '...',
-      img: '/PortfolioPhotos/GuessGame.png'
+      img: '/PortfolioPhotos/GuessGame.png',
+      page: "https://7o4kicks.netlify.app/"
 
     },
     {
@@ -52,12 +55,13 @@ function App() {
     {
       title: 'Hotel App',
       caption: '...',
-      img: '/PortfolioPhotos/Hotel.png'
+      img: '/PortfolioPhotos/Hotel.png',
     },
     {
-      title: 'Spark',
-      caption: 'First Hackathon',
-      img: '/PortfolioPhotos/Spark.png'
+      title: 'Tic Tac Toe',
+      caption: '',
+      img: '/PortfolioPhotos/TicTac.png',
+      page: "https://tic-tactoe-game.netlify.app"
     }
   ]
 

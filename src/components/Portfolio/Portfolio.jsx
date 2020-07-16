@@ -1,4 +1,5 @@
 import React from 'react'
+import '../Portfolio/Portfolio.css';
 
 export default ({ portfolioLinks }) => {
     return (
@@ -7,14 +8,13 @@ export default ({ portfolioLinks }) => {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Portfolio</h2>
-              <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
           </div>
           <div className="row">
             {
-                portfolioLinks && portfolioLinks.map(({ title, caption, img }, index) => 
+                portfolioLinks && portfolioLinks.map(({ title, caption, img, page }, index) => 
                     <div className="col-md-4 col-sm-6 portfolio-item">
-                        <a className="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+                        <a className="portfolio-link" data-toggle="modal" href={page} target="_blank">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
                                     <i className="fa fa-plus fa-3x"></i>

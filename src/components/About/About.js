@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import '../About/About.css';
 import Button from "react-bootstrap/Button";
-
+import myPic from './profilePic/myPic.png'
 
 
 function aboutMe() {
@@ -64,7 +64,7 @@ function aboutMe() {
   <Container className='image-container'>
   <Row>
     <Col>
-      <Image className='my-image' src="https://cdn.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png" roundedCircle />
+      <Image className='my-image' src={myPic} roundedCircle />
     </Col>
   </Row>
 </Container>
