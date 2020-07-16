@@ -14,7 +14,7 @@ export default ({ portfolioLinks }) => {
             {
                 portfolioLinks && portfolioLinks.map(({ title, caption, img, page }, index) => 
                     <div className="col-md-4 col-sm-6 portfolio-item">
-                        <a className="portfolio-link" data-toggle="modal" href={page} target="_blank">
+                        <a className="portfolio-link" data-toggle="modal" href={page} target="_blank" rel="noopener noreferrer">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
                                     <i className="fa fa-plus fa-3x"></i>
