@@ -29,7 +29,7 @@ function mySkills() {
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
             <i className="fa fa-user fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 className="service-heading">User Design</h4>
+          <h4 className="service-heading">Tools</h4>
          <ul className="user-skills">
             <li className="skills-li">Wire Framing</li>
             <li className="skills-li">Agile Methodology</li>

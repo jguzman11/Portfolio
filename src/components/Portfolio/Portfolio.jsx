@@ -17,7 +17,7 @@ export default ({ portfolioLinks }) => {
                         <a className="portfolio-link" data-toggle="modal" href={page} target="_blank" rel="noopener noreferrer">
                             <div className="portfolio-hover">
                                 <div className="portfolio-hover-content">
-                                    <i className="fa fa-plus fa-3x"></i>
+                                    <i className="fa fa-github fa-3x"></i>
                                 </div>
                             </div>
                             <img className="img-fluid" src={ img } alt="portfolio_img" />

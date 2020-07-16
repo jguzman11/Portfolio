@@ -11,58 +11,65 @@ import Footer from './components/Footer/Footer';
 function App() {
   const portfolioLinks = [
     {
-      title: 'The Verge',
-      caption: '...',
-      img: '/PortfolioPhotos/TheVergeReDesign.png',
-      page: "https://r2h-the-verge-clone.netlify.app"
+      title: 'Tokyo, Japan',
+      caption: 'HTML, CSS',
+      img: '/PortfolioPhotos/Tokyo.png',
+      page: "https://tic-tactoe-game.netlify.app"
     },
     {
-      title: 'E-commerce',
-      caption: '...',
-      img: '/PortfolioPhotos/cltKicks.png',
-      page: "https://7o4kicks.netlify.app/"
+      title: 'Hotel App',
+      caption: 'HTML, CSS',
+      img: '/PortfolioPhotos/Hotel.png',
+      page: "hotelgo.netlify.app"
+    },
+    {
+      title: 'Animated Nav',
+      caption: 'HTML, CSS, JS',
+      img: '/PortfolioPhotos/AnimatedNav.png'
+
+    },
+    {
+      title: 'Github Profiles',
+      caption: 'REACT.js, CSS',
+      img: '/PortfolioPhotos/GitCards.png',
+      page: 'hubprofiles.netlify.app'
     },
     {
       title: 'Guessing Game',
-      caption: '...',
+      caption: 'HTML, CSS, JS',
       img: '/PortfolioPhotos/GuessGame.png',
       page: "https://7o4kicks.netlify.app/"
 
     },
     {
-      title: 'Breaking The Cycle',
-      caption: '...',
-      img: '/PortfolioPhotos/BreakTheCycle.png'
-
-    },
-    {
-      title: 'Animated Nav',
-      caption: '...',
-      img: '/PortfolioPhotos/AnimatedNav.png'
-
-    },
-    {
       title: 'Weather Forecast',
-      caption: '...',
+      caption: 'HTML, CSS, JS, RESTful API',
       img: '/PortfolioPhotos/weather.png'
     },
     {
-      title: 'Github Profiles',
-      caption: '...',
-      img: '/PortfolioPhotos/GitCards.png',
-      page: 'hubprofiles.netlify.app'
-    },
-    {
-      title: 'Hotel App',
-      caption: '...',
-      img: '/PortfolioPhotos/Hotel.png',
-      page: "hotelgo.netlify.app"
+      title: 'Breaking The Cycle',
+      caption: 'HTML, CSS, NODE.js',
+      img: '/PortfolioPhotos/BreakTheCycle.png'
+    
     },
     {
       title: 'Tic Tac Toe',
-      caption: '',
+      caption: 'REACT.js, CSS',
       img: '/PortfolioPhotos/TicTac.png',
       page: "https://tic-tactoe-game.netlify.app"
+    },
+
+    {
+      title: 'E-commerce',
+      caption: 'REACT.js, CSS',
+      img: '/PortfolioPhotos/cltKicks.png',
+      page: "https://7o4kicks.netlify.app/"
+    },
+    {
+      title: 'The Verge',
+      caption: 'REACT.js, MONGODB, NODE.js, CSS',
+      img: '/PortfolioPhotos/TheVergeReDesign.png',
+      page: "https://r2h-the-verge-clone.netlify.app"
     }
   ]
 
