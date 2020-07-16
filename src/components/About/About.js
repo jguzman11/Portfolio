@@ -25,7 +25,7 @@ function aboutMe() {
       <Card.Body>
         <Card.Text>
           <p className='content-text'>
-            Welcome again! My name is Jordan. Born and Raised in Charlotte, NC. Excited and motivated moving into the Tech World. 
+            Hello! My name is Jordan. Born and raised in Charlotte, NC I'm a motivated individual with a desire to learn web development. Having a big interest in what all happens behind the scenes of websites and systems. I joined Road to Hire, which is a rigorous fast place training under Red Ventures for 6 months. Where I got to learn multiple languages to learn Full Stack Development. My goal is to jump-start my career in Software Engineering by learning these new software languages and developing the skills I need that will enhance my knowledge.  
           </p>
         </Card.Text>
       </Card.Body>
@@ -38,7 +38,7 @@ function aboutMe() {
                     </a>
                   </div>
                   <div>
-                    <a href="https://docs.google.com/document/d/1gMaepG0uE-dOq_5BtFP4U0GJ2CFgwGWHjtjel2lHhhI/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://docs.google.com/document/d/1p6SifPbSEWiiuXSCsx5xoVuwf3--ACG6HbJZIkAsO6g/edit" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
