@@ -25,7 +25,7 @@ function aboutMe() {
       <Card.Body>
         <Card.Text>
           <p className='content-text'>
-            Hello! My name is Jordan. Born and raised in Charlotte, NC I'm a motivated individual with a desire to learn web development. Having a big interest in what all happens behind the scenes of websites and systems. I joined Road to Hire, which is a rigorous fast place training under Red Ventures for 6 months. Where I got to learn multiple languages to learn Full Stack Development. My goal is to jump-start my career in Software Engineering by learning these new software languages and developing the skills I need that will enhance my knowledge.  
+            Hello! My name is Jordan, born and raised in Charlotte, NC. I'm a motivated individual with a desire to learn web development. Having a big interest in what all happens behind the scenes of websites and systems. I joined Road to Hire, which is a rigorous fast place training under Red Ventures for 6 months. Where I got to learn multiple languages to become a Full Stack Developer. 
           </p>
         </Card.Text>
       </Card.Body>
