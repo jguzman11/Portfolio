@@ -45,17 +45,18 @@ function App() {
       title: 'Weather Forecast',
       caption: '...',
       img: '/PortfolioPhotos/weather.png'
-
     },
     {
       title: 'Github Profiles',
       caption: '...',
-      img: '/PortfolioPhotos/GitCards.png'
+      img: '/PortfolioPhotos/GitCards.png',
+      page: 'hubprofiles.netlify.app'
     },
     {
       title: 'Hotel App',
       caption: '...',
       img: '/PortfolioPhotos/Hotel.png',
+      page: "hotelgo.netlify.app"
     },
     {
       title: 'Tic Tac Toe',
