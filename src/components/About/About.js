@@ -16,7 +16,7 @@ function aboutMe() {
 <div className="container">
   <div className="row">
     <div className="col-lg-12 text-center">
-      <h2 className="section-heading text-uppercase">About</h2>
+      <h2 className=" about-text section-heading text-uppercase">About</h2>
     </div>
   </div>
   
