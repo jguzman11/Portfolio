@@ -22,6 +22,7 @@ function mySkills() {
            <li className="skills-li">HTML</li>
            <li className="skills-li">CSS</li>
            <li className="skills-li">Javascript</li>
+           <li className="skills-li">React</li>
          </ul>
         </div>
         <div className="col-md-4">
@@ -46,7 +47,7 @@ function mySkills() {
            <li className="skills-li">MySQl</li>
            <li className="skills-li">MongoDB</li>
            <li className="skills-li">Node</li>
-           <li className="skills-li">REST Endpoints</li>
+           <li className="skills-li">REST API's</li>
          </ul>
         </div>
       </div>
