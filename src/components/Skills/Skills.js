@@ -19,9 +19,9 @@ function mySkills() {
           </span>
           <h4 className="service-heading">Front-End</h4>
           <ul className="user-skills">
-           <li className="skills-li">Wire Framing</li>
-           <li className="skills-li">Agile Methodology</li>
-           <li className="skills-li">Technical Writing</li>
+           <li className="skills-li">HTML</li>
+           <li className="skills-li">CSS</li>
+           <li className="skills-li">Javascript</li>
          </ul>
         </div>
         <div className="col-md-4">

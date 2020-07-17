@@ -1,6 +1,9 @@
 .hamburger {
     min-height: 100%;
   }
+  .image-container{
+    margin: 1rem;
+  }
   #navbar {
     background: rgba(255,255,255,0.9);
     display: flex;

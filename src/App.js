@@ -25,8 +25,8 @@ function App() {
     {
       title: 'Animated Nav',
       caption: 'HTML, CSS, JS',
-      img: '/PortfolioPhotos/AnimatedNav.png'
-
+      img: '/PortfolioPhotos/AnimatedNav.png',
+      page:''
     },
     {
       title: 'Github Profiles',
@@ -38,19 +38,19 @@ function App() {
       title: 'Guessing Game',
       caption: 'HTML, CSS, JS',
       img: '/PortfolioPhotos/GuessGame.png',
-      page: "https://7o4kicks.netlify.app/"
-
+      page: ''
     },
     {
       title: 'Weather Forecast',
       caption: 'HTML, CSS, JS, RESTful API',
-      img: '/PortfolioPhotos/weather.png'
+      img: '/PortfolioPhotos/weather.png',
+      page:''
     },
     {
       title: 'Breaking The Cycle',
       caption: 'HTML, CSS, NODE.js',
-      img: '/PortfolioPhotos/BreakTheCycle.png'
-    
+      img: '/PortfolioPhotos/BreakTheCycle.png',
+      page:''
     },
     {
       title: 'Tic Tac Toe',
