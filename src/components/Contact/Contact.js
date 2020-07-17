@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../Contact/Contact.css'
 function Contact() {
     return(
         <section className="page-section" id="contact">
@@ -36,7 +36,7 @@ function Contact() {
               <div className="clearfix"></div>
               <div className="col-lg-12 text-center">
                 <div id="success"></div>
-                <button id="sendMessageButton" className="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                <button id="sendMessageButton" className="btn contact-btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
               </div>
             </div>
           </form>

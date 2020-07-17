@@ -7,6 +7,10 @@
 #About{
     background-color: #f8f9fa;
 }
+.card-body{
+    display: flex;
+    align-items: center;
+}
 
 .card-title{
     font-size: 25px !important;
@@ -20,9 +24,16 @@
     justify-content: space-between;
     padding: 30px;
 }
+.page-section h2.section-heading{
+margin-bottom: 0 !important;
+}
+.section-heading{
+    padding-bottom: 0;
+}
 .article-Card{
-    /* height: 25rem; */
+    height: 23rem;
     width: 35rem;
+    margin-top: 24px;
 }
 .image-container{
     display: flex;

@@ -25,7 +25,7 @@ function aboutMe() {
       <Card.Body>
         <Card.Text>
           <p className='content-text'>
-            Hello! My name is Jordan, born and raised in Charlotte, NC. I'm a motivated individual with a desire to learn web development. Inspired by curiosity.
+            Hello! My name is Jordan, born and raised in Charlotte, NC. Driven my the engine of my car. I'm a motivated individual with a desire to learn web development. Inspired by curiosity.
           </p>
         </Card.Text>
       </Card.Body>

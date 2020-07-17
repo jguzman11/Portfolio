@@ -1,4 +1,6 @@
- 
+ header.masthead{
+     height: 48rem !important;
+ }
     .btn {
 
         border: none;
@@ -58,5 +60,11 @@
     }
 .btn-primary{
     background-color: #111 !important;
-    border-color: #FED136 !important;
+    border-color: #111 !important;
+}
+
+@media only screen and (max-width: 600px){
+    header.masthead{
+        height: fit-content !important;
+    }
 }
