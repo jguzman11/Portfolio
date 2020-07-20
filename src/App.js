@@ -14,31 +14,31 @@ function App() {
       title: 'Tokyo, Japan',
       caption: 'HTML, CSS',
       img: '/PortfolioPhotos/Tokyo.png',
-      page: "https://tic-tactoe-game.netlify.app"
+      page: "https://triptotokyo.netlify.app/"
     },
     {
       title: 'Hotel App',
       caption: 'HTML, CSS',
       img: '/PortfolioPhotos/Hotel.png',
-      page: "hotelgo.netlify.app"
+      page: "https://hotelgo.netlify.app/"
     },
     {
       title: 'Animated Nav',
       caption: 'HTML, CSS, JS',
       img: '/PortfolioPhotos/AnimatedNav.png',
-      page:''
+      page:'https://animated-nav.netlify.app/'
     },
     {
       title: 'Github Profiles',
       caption: 'REACT.js, CSS',
       img: '/PortfolioPhotos/GitCards.png',
-      page: 'hubprofiles.netlify.app'
+      page: 'https://hubprofiles.netlify.app/'
     },
     {
       title: 'Guessing Game',
       caption: 'HTML, CSS, JS',
       img: '/PortfolioPhotos/GuessGame.png',
-      page: ''
+      page: 'https://guess-thenumber.netlify.app/'
     },
     {
       title: 'Weather Forecast',
