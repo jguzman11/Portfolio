@@ -11,7 +11,7 @@ function Footer() {
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
             <li className="list-inline-item">
-              <a href="#something">
+              <a href="https://twitter.com/explore">
                 <i className="fa fa-twitter"></i>
               </a>
             </li>

@@ -44,7 +44,7 @@ function mySkills() {
           </span>
           <h4 className="service-heading">Back-End</h4>
           <ul className="user-skills">
-           <li className="skills-li">MySQl</li>
+           <li className="skills-li">MySQL</li>
            <li className="skills-li">MongoDB</li>
            <li className="skills-li">Node</li>
            <li className="skills-li">REST API's</li>
